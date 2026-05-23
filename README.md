@@ -30,3 +30,5 @@ Before running the project, ensure you have the following installed on your loca
 ```bash
 git clone [https://github.com/Henri444444/foundry-fund-me.git](https://github.com/Henri444444/foundry-fund-me.git)
 cd foundry-fund-me
+
+Made by Henri
